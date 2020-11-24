@@ -21,3 +21,4 @@ tar -czvf fonts.tar.gz ./fonts/
 | Fonts   |
 | ------- |
 | ✓ Arial |
+| ✓ Open Sans |
